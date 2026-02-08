@@ -1,0 +1,117 @@
+{
+  "app": {
+    "title": "Gestionnaire de Tâches",
+    "description": "Gérez vos tâches efficacement"
+  },
+  "sidebar": {
+    "search": "Recherche",
+    "ai": "Kla AI",
+    "inbox": "Boîte de réception",
+    "calendar": "Calendrier",
+    "settings": "Paramètres et Préférences",
+    "sharedPages": "Pages Partagées",
+    "privatePages": "Pages Privées",
+    "accounts": "Comptes",
+    "upgrade": "Mettre à niveau",
+    "upgradeTitle": "Maximisez votre productivité",
+    "upgradeDescription": "Améliorez la gestion de vos tâches avec des outils avancés."
+  },
+  "board": {
+    "title": "Centre des Tâches RH",
+    "welcome": "Bienvenue dans le centre des Ressources Humaines",
+    "kanban": "Kanban",
+    "list": "Liste",
+    "calendar": "Calendrier",
+    "calendarSoon": "Vue calendrier bientôt disponible",
+    "filter": "Filtrer",
+    "sort": "Trier",
+    "search": "Rechercher ici",
+    "share": "Partager",
+    "allTasks": "Toutes les tâches",
+    "myTasks": "Mes tâches",
+    "completed": "Terminées",
+    "moreOptions": "Plus d'options",
+    "name": "Nom",
+    "dates": "Dates",
+    "statusCol": "Statut",
+    "attachment": "Pièce jointe",
+    "people": "Personnes"
+  },
+  "status": {
+    "todo": "À faire",
+    "in_progress": "En cours",
+    "need_review": "À examiner",
+    "done": "Terminé"
+  },
+  "priority": {
+    "low": "Basse",
+    "medium": "Moyenne",
+    "high": "Haute",
+    "urgent": "Urgent"
+  },
+  "task": {
+    "title": "Titre de la tâche",
+    "description": "Description",
+    "create": "Créer une tâche",
+    "edit": "Modifier la tâche",
+    "delete": "Supprimer",
+    "deleteTask": "Supprimer la tâche",
+    "deleteTitle": "Supprimer la tâche ?",
+    "deleteDescription": "Cette action est irréversible. La tâche sera définitivement supprimée du tableau.",
+    "deleteConfirm": "Oui, supprimer",
+    "dueDate": "Date d'échéance",
+    "assignees": "Assignés à",
+    "comments": "Commentaires",
+    "attachments": "Pièces jointes",
+    "checklist": "Liste de contrôle",
+    "tags": "Étiquettes",
+    "noTasks": "Aucune tâche",
+    "noTasksFound": "Aucune tâche trouvée",
+    "created": "Tâche créée avec succès !",
+    "updated": "Tâche mise à jour avec succès !",
+    "deleted": "Tâche supprimée avec succès !",
+    "error": "Échec de l'action",
+    "titlePlaceholder": "Entrez le titre de la tâche",
+    "descriptionPlaceholder": "Entrez la description de la tâche",
+    "selectStatus": "Sélectionnez le statut",
+    "selectPriority": "Sélectionnez la priorité",
+    "creating": "Création...",
+    "saving": "Enregistrement..."
+  },
+  "filter": {
+    "all": "Tous",
+    "clearFilters": "Effacer les filtres",
+    "byStatus": "Par statut",
+    "byPriority": "Par priorité",
+    "byAssignee": "Par assigné",
+    "search": "Rechercher des tâches"
+  },
+  "sort": {
+    "dueDate": "Date d'échéance",
+    "createdAt": "Date de création",
+    "priority": "Priorité",
+    "ascending": "Croissant",
+    "descending": "Décroissant"
+  },
+  "theme": {
+    "light": "Clair",
+    "dark": "Sombre",
+    "system": "Système"
+  },
+  "language": {
+    "en": "English",
+    "fr": "Français"
+  },
+  "common": {
+    "loading": "Chargement...",
+    "error": "Une erreur s'est produite",
+    "success": "Succès",
+    "cancel": "Annuler",
+    "save": "Enregistrer",
+    "delete": "Supprimer",
+    "edit": "Modifier",
+    "close": "Fermer",
+    "add": "Ajouter",
+    "noData": "Aucune donnée disponible"
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "app": {
+    "title": "Task Manager",
+    "description": "Manage your tasks efficiently"
+  },
+  "sidebar": {
+    "search": "Search",
+    "ai": "Kla AI",
+    "inbox": "Inbox",
+    "calendar": "Calendar",
+    "settings": "Settings & Preferences",
+    "sharedPages": "Shared Pages",
+    "privatePages": "Private Pages",
+    "accounts": "Accounts",
+    "upgrade": "Upgrade",
+    "upgradeTitle": "Maximize your productivity",
+    "upgradeDescription": "Boost your task management with advanced tools & features."
+  },
+  "board": {
+    "title": "HR Tasks Hub",
+    "welcome": "Welcome to the Human Resources hub",
+    "kanban": "Kanban",
+    "list": "List",
+    "calendar": "Calendar",
+    "calendarSoon": "Calendar view coming soon",
+    "filter": "Filter",
+    "sort": "Sort",
+    "search": "Search here",
+    "share": "Share",
+    "allTasks": "All Tasks",
+    "myTasks": "My Tasks",
+    "completed": "Completed",
+    "moreOptions": "More Options",
+    "name": "Name",
+    "dates": "Dates",
+    "statusCol": "Status",
+    "attachment": "Attachment",
+    "people": "People"
+  },
+  "status": {
+    "todo": "To-do",
+    "in_progress": "On Progress",
+    "need_review": "Need Review",
+    "done": "Done"
+  },
+  "priority": {
+    "low": "Low",
+    "medium": "Medium",
+    "high": "High",
+    "urgent": "Urgent"
+  },
+  "task": {
+    "title": "Task Title",
+    "description": "Description",
+    "create": "Create Task",
+    "edit": "Edit Task",
+    "delete": "Delete",
+    "deleteTask": "Delete Task",
+    "deleteTitle": "Delete Task?",
+    "deleteDescription": "This action cannot be undone. This will permanently remove the task from the board.",
+    "deleteConfirm": "Yes, Delete",
+    "dueDate": "Due Date",
+    "assignees": "Assignees",
+    "comments": "Comments",
+    "attachments": "Attachments",
+    "checklist": "Checklist",
+    "tags": "Tags",
+    "noTasks": "No tasks",
+    "noTasksFound": "No tasks found",
+    "created": "Task created successfully!",
+    "updated": "Task updated successfully!",
+    "deleted": "Task deleted successfully!",
+    "error": "Failed to perform action",
+    "titlePlaceholder": "Enter task title",
+    "descriptionPlaceholder": "Enter task description",
+    "selectStatus": "Select status",
+    "selectPriority": "Select priority",
+    "creating": "Creating...",
+    "saving": "Saving..."
+  },
+  "filter": {
+    "all": "All",
+    "clearFilters": "Clear Filters",
+    "byStatus": "By Status",
+    "byPriority": "By Priority",
+    "byAssignee": "By Assignee",
+    "search": "Search tasks"
+  },
+  "sort": {
+    "dueDate": "Due Date",
+    "createdAt": "Created Date",
+    "priority": "Priority",
+    "ascending": "Ascending",
+    "descending": "Descending"
+  },
+  "theme": {
+    "light": "Light",
+    "dark": "Dark",
+    "system": "System"
+  },
+  "language": {
+    "en": "English",
+    "fr": "Français"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "success": "Success",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "close": "Close",
+    "add": "Add",
+    "noData": "No data available"
+  }
+}
